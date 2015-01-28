@@ -1,6 +1,6 @@
 ---
 title: "testing"
-author: "jwchoi"
+author: "jwchoihgfhljh"
 date: "January 28, 2015"
 output:
   html_document:
